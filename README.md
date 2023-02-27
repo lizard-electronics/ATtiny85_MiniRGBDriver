@@ -1,2 +1,3 @@
-# 2_ATtiny85_MiniRGBDriver
- Mini RGB LED driver with a ATtiny85 MCU (first PCB with a ATtiny85).
+# ATtiny85 Mini RGB Driver
+Mini RGB LED driver based on an ATtiny85 MCU.  
+(*) First PCB that I developed with an ATtiny85.
